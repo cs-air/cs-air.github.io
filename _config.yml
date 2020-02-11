@@ -22,8 +22,8 @@ title: CS-Air Demo Site
 email: no email yet
 description: >- # this means to ignore newlines until "baseurl:"
   This is a site created from messing around with Jekyll and yaml
-baseurl: "cs-air" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://cs-air.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllman
 github_username:  jekee
 

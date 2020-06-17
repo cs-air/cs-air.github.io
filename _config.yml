@@ -29,7 +29,7 @@ github_username:  jekee
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 plugins:
   - jekyll-feed
 exclude:

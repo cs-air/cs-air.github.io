@@ -28,6 +28,9 @@ description: Projects ........
 # in the templates via {{ site.myvariable }}.
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 28e3809...  update
 title: MSU CS-Air Site
 email: N/A
 description: >- # this means to ignore newlines until "baseurl:"

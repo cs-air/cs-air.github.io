@@ -1,4 +1,10 @@
-# Welcome to Jekyll!
+#MY WORK -----------------------------------------------------------------------------------
+theme:jekyll-theme-cayman
+title: Welcome to the CS-Air's Homepage!
+description: Projects ........
+
+# PREVIOUS WORK DONE BY MATT--------------------------------------------------------------
+#Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -18,23 +24,25 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: CS-Air Demo Site
-email: no email yet
-description: >- # this means to ignore newlines until "baseurl:"
-  This is a site created from messing around with Jekyll and yaml
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cs-air.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllman
-github_username:  jekee
+
+#I COMMENTED IT OUT 06/19/2020-------------------------------------------------------------------
+#title: CS-Air Demo Site
+#email: no email yet
+#description: >- # this means to ignore newlines until "baseurl:"
+ # This is a site created from messing around with Jekyll and yaml
+#baseurl: "" # the subpath of your site, e.g. /blog
+#url: "http://cs-air.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#twitter_username: jekyllman
+#github_username:  jekee
 
 # Build settings
-markdown: kramdown
-theme: minima
-plugins:
-  - jekyll-feed
-exclude:
-- Gemfile
-- Gemfile.lock
+#markdown: kramdown
+#theme: minima
+#plugins:
+ # - jekyll-feed
+#exclude:
+#- Gemfile
+#- Gemfile.lock
 
 # Exclude from processing.
 # The following items will not be processed, by default.

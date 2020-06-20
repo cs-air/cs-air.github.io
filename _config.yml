@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-=======
-#MY WORK -----------------------------------------------------------------------------------
-theme:jekyll-theme-cayman
-title: Welcome to the CS-Air's Homepage!
-description: Projects ........
-
-# PREVIOUS WORK DONE BY MATT ----------------------------------------------------------------
->>>>>>> parent of f0bf0dc... Update _config.yml
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
@@ -27,19 +18,10 @@ description: Projects ........
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> parent of 28e3809...  update
-title: MSU CS-Air Site
-email: N/A
-=======
 title: CS-Air Demo Site
 email: no email yet
->>>>>>> parent of 28d9963... commit
 description: >- # this means to ignore newlines until "baseurl:"
-  This is a site created from messing around with Jekyll and yaml
+ This is a site created from messing around with Jekyll and yaml
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cs-air.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllman
@@ -53,26 +35,6 @@ plugins:
 exclude:
 - Gemfile
 - Gemfile.lock
-=======
-#I COMMENTED OUT 06/19/2020---------------------------------------------------------------------------
-#title: CS-Air Demo Site
-#email: no email yet
-#description: >- # this means to ignore newlines until "baseurl:"
- # This is a site created from messing around with Jekyll and yaml
-#baseurl: "" # the subpath of your site, e.g. /blog
-#url: "https://cs-air.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-#twitter_username: jekyllman
-#github_username:  jekee
-
-# Build settings
-#markdown: kramdown
-#theme: jekyll-theme-minimal
-#plugins:
- # - jekyll-feed
-#exclude:
-#- Gemfile
-#- Gemfile.lock
->>>>>>> parent of f0bf0dc... Update _config.yml
 
 # Exclude from processing.
 # The following items will not be processed, by default.

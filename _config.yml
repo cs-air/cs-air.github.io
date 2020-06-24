@@ -29,7 +29,8 @@ github_username:  jekee
 
 # Build settings
 markdown: kramdown
-remote_theme:DevTips/Artists-Theme
+remote_theme: DevTips/Artists-Theme
+#remote_theme:DevTips/Artists-Theme
 #theme: minima
 plugins:
   - jekyll-feed

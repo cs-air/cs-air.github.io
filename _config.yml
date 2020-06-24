@@ -33,7 +33,7 @@ remote_theme:DevTips/Artists-Theme
 #theme: minima
 plugins:
   - jekyll-feed
- # - jekyll-remote-theme
+  - jekyll-remote-theme
 exclude:
 - Gemfile
 - Gemfile.lock

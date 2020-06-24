@@ -29,9 +29,11 @@ github_username:  jekee
 
 # Build settings
 markdown: kramdown
-theme: minima
+remote_theme:DevTips/Artists-Theme
+#theme: minima
 plugins:
   - jekyll-feed
+ # - jekyll-remote-theme
 exclude:
 - Gemfile
 - Gemfile.lock
